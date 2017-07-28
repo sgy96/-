@@ -1,0 +1,45 @@
+[ 2017-06-14T15:28:31+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/1
+ERR: 非法操作:1
+
+[ 2017-06-14T15:29:12+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/1
+ERR: 非法操作:1
+
+[ 2017-06-14T15:30:20+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/1
+ERR: 非法操作:1
+
+[ 2017-06-14T15:30:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/1
+ERR: 非法操作:1
+
+[ 2017-06-14T15:31:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/grand
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003132s ]
+NOTIC: [8] Undefined index: expire D:\wamp\www\ThinkPHP\ThinkPHP\Common\functions.php 第 1073 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008079s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 22 ) LIMIT 1   [ RunTime:0.000606s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 25 ) LIMIT 1   [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004322s ]
+
+[ 2017-06-14T15:32:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/grand
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002673s ]
+NOTIC: [8] Undefined index: expire D:\wamp\www\ThinkPHP\ThinkPHP\Common\functions.php 第 1073 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008343s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 23 ) LIMIT 1   [ RunTime:0.000506s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 30 ) LIMIT 1   [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001526s ]
+
+[ 2017-06-14T16:01:47+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/1
+ERR: 非法操作:1
+
+[ 2017-06-14T16:02:25+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/1
+ERR: 非法操作:1
+
+[ 2017-06-14T16:02:28+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/1
+ERR: 非法操作:1
+

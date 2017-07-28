@@ -1,0 +1,100 @@
+[ 2017-05-27T18:38:15+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002889s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.055506s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '15503773825' )  [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2017-05-27T18:40:51+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007875s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '2' )  [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001480s ]
+
+[ 2017-05-27T18:44:32+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004416s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008220s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '15503773825' )  [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2017-05-27T18:44:48+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001857s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008454s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '2' )  [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001496s ]
+
+[ 2017-05-27T18:51:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002239s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007756s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '2' )  [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2017-05-27T18:54:03+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009445s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '15503773825' )  [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2017-05-27T18:57:31+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005514s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008079s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '15503773825' )  [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001668s ]
+
+[ 2017-05-27T18:58:19+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008352s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '2' )  [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001561s ]
+
+[ 2017-05-27T19:18:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009807s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '2' )  [ RunTime:0.000925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002010s ]
+
+[ 2017-05-27T19:18:52+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/modify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007936s ]
+SQL: SELECT `cell` FROM `member` WHERE ( `ID` = 20 ) LIMIT 1   [ RunTime:0.000472s ]
+SQL: UPDATE `member` SET `Superior`='15503773856' WHERE ( `Superior` = '2' ) [ RunTime:0.001712s ]
+NOTIC: [8] Undefined variable: r D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 171 行.
+SQL: UPDATE `member` SET `cell`='15503773856',`address`='456' WHERE ( `ID` = 20 ) [ RunTime:0.001731s ]
+

@@ -1,0 +1,1794 @@
+[ 2017-05-23T11:28:54+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003570s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008415s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001880s ]
+
+[ 2017-05-23T11:28:54+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003123s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009234s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2017-05-23T11:28:55+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005428s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.016148s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.001101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002362s ]
+
+[ 2017-05-23T11:29:02+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008116s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001549s ]
+
+[ 2017-05-23T11:29:05+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002378s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008591s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001533s ]
+
+[ 2017-05-23T11:29:06+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003023s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008598s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001503s ]
+
+[ 2017-05-23T11:29:07+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002438s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008092s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001554s ]
+
+[ 2017-05-23T11:29:40+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002526s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008137s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2017-05-23T11:29:47+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002277s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008321s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2017-05-23T11:29:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007731s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2017-05-23T11:29:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004435s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.011301s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003810s ]
+
+[ 2017-05-23T11:29:50+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003165s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.011880s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2017-05-23T11:29:52+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002063s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008083s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001532s ]
+
+[ 2017-05-23T11:30:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002730s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007916s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2017-05-23T11:30:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002666s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009359s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2017-05-23T11:30:02+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008345s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001605s ]
+
+[ 2017-05-23T11:30:09+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002485s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008373s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2017-05-23T11:30:11+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002292s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008137s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001624s ]
+
+[ 2017-05-23T11:30:30+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002271s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008577s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-05-23T11:30:30+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002086s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008124s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-05-23T11:30:31+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002872s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010815s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002088s ]
+
+[ 2017-05-23T11:32:35+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003656s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010755s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-05-23T11:32:36+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005280s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007819s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001683s ]
+
+[ 2017-05-23T11:32:37+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002565s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010560s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002168s ]
+
+[ 2017-05-23T11:32:38+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002875s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008040s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001659s ]
+
+[ 2017-05-23T11:32:39+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002542s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010135s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001871s ]
+
+[ 2017-05-23T11:32:40+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001961s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008522s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-05-23T11:32:41+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008677s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001519s ]
+
+[ 2017-05-23T11:33:46+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002378s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008334s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2017-05-23T11:33:47+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008502s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001537s ]
+
+[ 2017-05-23T11:33:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009832s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2017-05-23T11:33:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002415s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010030s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2017-05-23T11:33:51+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002164s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009331s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002056s ]
+
+[ 2017-05-23T11:33:52+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002388s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008625s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001720s ]
+
+[ 2017-05-23T11:35:12+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002713s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008234s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2017-05-23T11:35:13+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003144s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009092s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.002196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003810s ]
+
+[ 2017-05-23T11:35:13+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002716s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009869s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001533s ]
+
+[ 2017-05-23T11:35:14+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008082s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001585s ]
+
+[ 2017-05-23T11:35:15+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003354s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007939s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001607s ]
+
+[ 2017-05-23T11:35:15+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008799s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-05-23T11:35:17+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008623s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001605s ]
+
+[ 2017-05-23T11:35:23+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001962s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008082s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001522s ]
+
+[ 2017-05-23T11:35:36+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002984s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008460s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2017-05-23T11:35:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002588s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008568s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2017-05-23T11:35:41+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002279s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008120s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001531s ]
+
+[ 2017-05-23T11:35:44+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002575s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008692s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2017-05-23T11:35:57+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/jz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002584s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008890s ]
+SQL: SELECT COUNT(ID) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+
+[ 2017-05-23T11:45:10+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/jz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002489s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008160s ]
+SQL: SELECT COUNT(ID) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.000557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2017-05-23T11:45:20+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003049s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009554s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001815s ]
+
+[ 2017-05-23T11:45:21+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002878s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009272s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001525s ]
+
+[ 2017-05-23T11:45:22+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008724s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001851s ]
+
+[ 2017-05-23T11:45:22+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002972s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009249s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001892s ]
+
+[ 2017-05-23T11:45:23+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002444s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008272s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001577s ]
+
+[ 2017-05-23T11:55:42+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003056s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008733s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001888s ]
+
+[ 2017-05-23T11:55:42+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008670s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001680s ]
+
+[ 2017-05-23T12:28:05+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002865s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008727s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2017-05-23T12:28:06+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002484s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008135s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-05-23T12:28:07+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002004s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008352s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2017-05-23T12:28:08+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004608s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.013067s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001726s ]
+
+[ 2017-05-23T12:28:09+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002581s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008625s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001694s ]
+
+[ 2017-05-23T12:28:13+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008831s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2017-05-23T12:28:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/jz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003511s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008070s ]
+SQL: SELECT COUNT(ID) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001614s ]
+
+[ 2017-05-23T12:31:02+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002110s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007892s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2017-05-23T12:31:03+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008268s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '太阳镜 ' ) LIMIT 0,5   [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001559s ]
+
+[ 2017-05-23T12:31:03+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002032s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008469s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001533s ]
+
+[ 2017-05-23T12:46:21+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003022s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010046s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001659s ]
+
+[ 2017-05-23T12:46:22+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007952s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-05-23T13:38:38+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003048s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.009319s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜 ' ) LIMIT 0,5   [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2017-05-23T13:38:39+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.010457s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001735s ]
+
+[ 2017-05-23T14:43:01+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/logo.html
+ERR: 非法操作:logo
+
+[ 2017-05-23T14:43:22+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/Index/logo.html
+ERR: 非法操作:logo
+
+[ 2017-05-23T15:14:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001407s ]
+
+[ 2017-05-23T15:14:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2017-05-23T15:14:35+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2017-05-23T15:14:35+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2017-05-23T15:14:43+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2017-05-23T15:14:46+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001484s ]
+
+[ 2017-05-23T15:15:04+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001764s ]
+
+[ 2017-05-23T15:15:08+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001554s ]
+
+[ 2017-05-23T15:15:10+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001178s ]
+
+[ 2017-05-23T15:15:13+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001475s ]
+
+[ 2017-05-23T15:15:15+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001556s ]
+
+[ 2017-05-23T15:15:21+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2017-05-23T15:15:23+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2017-05-23T15:15:24+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001765s ]
+
+[ 2017-05-23T15:15:51+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2017-05-23T15:24:18+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002005s ]
+
+[ 2017-05-23T16:00:04+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2017-05-23T16:00:08+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2017-05-23T16:00:09+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001484s ]
+
+[ 2017-05-23T16:00:09+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2017-05-23T16:00:09+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2017-05-23T16:00:10+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001802s ]
+
+[ 2017-05-23T16:00:10+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2017-05-23T16:00:11+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-05-23T16:00:11+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2017-05-23T16:00:11+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001165s ]
+
+[ 2017-05-23T16:00:11+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2017-05-23T16:00:12+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-05-23T16:00:12+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001776s ]
+
+[ 2017-05-23T16:00:12+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002703s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001750s ]
+
+[ 2017-05-23T16:00:13+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-05-23T16:04:30+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001239s ]
+
+[ 2017-05-23T16:04:32+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001567s ]
+
+[ 2017-05-23T16:04:32+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001851s ]
+
+[ 2017-05-23T16:04:32+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002294s ]
+
+[ 2017-05-23T16:04:33+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001209s ]
+
+[ 2017-05-23T16:05:19+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2017-05-23T16:06:43+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2017-05-23T16:07:20+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001207s ]
+
+[ 2017-05-23T16:08:23+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2017-05-23T16:08:49+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001535s ]
+
+[ 2017-05-23T16:25:55+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008331s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '' )  [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001584s ]
+
+[ 2017-05-23T16:26:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002323s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009061s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '' )  [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2017-05-23T16:27:15+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002613s ]
+
+[ 2017-05-23T16:27:17+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002373s ]
+
+[ 2017-05-23T16:27:21+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002282s ]
+
+[ 2017-05-23T16:27:25+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002359s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009001s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001870s ]
+
+[ 2017-05-23T16:27:33+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+
+[ 2017-05-23T16:27:54+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002321s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008854s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001670s ]
+
+[ 2017-05-23T16:33:04+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009176s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001467s ]
+
+[ 2017-05-23T16:33:28+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008635s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001879s ]
+
+[ 2017-05-23T16:34:55+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002571s ]
+
+[ 2017-05-23T16:35:04+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002179s ]
+
+[ 2017-05-23T16:35:22+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004524s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009284s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001730s ]
+
+[ 2017-05-23T16:45:42+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002928s ]
+
+[ 2017-05-23T16:45:47+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002788s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008598s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001653s ]
+
+[ 2017-05-23T17:11:12+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008285s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2017-05-23T17:37:23+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008135s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001538s ]
+
+[ 2017-05-23T17:37:58+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002616s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007874s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001512s ]
+
+[ 2017-05-23T17:38:24+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002850s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008700s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001578s ]
+
+[ 2017-05-23T17:39:00+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008610s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001542s ]
+
+[ 2017-05-23T17:41:07+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002847s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008515s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001548s ]
+
+[ 2017-05-23T17:49:06+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003196s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000414s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2017-05-23T17:49:47+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000371s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001232s ]
+
+[ 2017-05-23T17:49:50+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001246s ]
+
+[ 2017-05-23T17:49:58+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000974s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001295s ]
+
+[ 2017-05-23T17:50:07+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2017-05-23T17:50:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-05-23T17:50:21+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000541s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001466s ]
+
+[ 2017-05-23T17:58:57+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002615s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009153s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001949s ]
+
+[ 2017-05-23T17:58:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2017-05-23T17:59:03+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002403s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.011310s ]
+SQL: SELECT `ID` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000553s ]
+NOTIC: [8] Undefined variable: goods D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 79 行.
+
+[ 2017-05-23T17:59:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000438s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2017-05-23T17:59:45+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007792s ]
+SQL: SELECT `ID` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000517s ]
+SQL: UPDATE `member` SET `password`='1' WHERE ( `ID` = 8 ) [ RunTime:0.001057s ]
+
+[ 2017-05-23T18:00:57+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000371s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2017-05-23T18:01:02+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002134s ]
+
+[ 2017-05-23T18:01:25+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2017-05-23T18:01:33+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001472s ]
+
+[ 2017-05-23T18:01:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000553s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2017-05-23T18:02:56+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2017-05-23T18:03:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003790s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000422s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000936s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001337s ]
+
+[ 2017-05-23T18:03:05+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002178s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000397s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2017-05-23T18:06:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001995s ]
+
+[ 2017-05-23T18:07:04+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002057s ]
+NOTIC: [8] Undefined index: password D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 29 行.
+
+[ 2017-05-23T18:07:46+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002163s ]
+NOTIC: [8] Undefined index: password D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 29 行.
+
+[ 2017-05-23T18:07:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+NOTIC: [8] Undefined index: password D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 29 行.
+
+[ 2017-05-23T18:08:20+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003573s ]
+NOTIC: [8] Undefined index: password D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 29 行.
+
+[ 2017-05-23T18:08:38+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+
+[ 2017-05-23T18:08:53+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002492s ]
+NOTIC: [8] Undefined index: password D:\wamp\www\ThinkPHP\yanJing\Home\Controller\UserController.class.php 第 29 行.
+
+[ 2017-05-23T18:09:43+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+
+[ 2017-05-23T18:09:47+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002371s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008701s ]
+SQL: SELECT `ID` FROM `member` WHERE ( `cell` = '11111' )  [ RunTime:0.000427s ]
+
+[ 2017-05-23T18:09:53+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/reset
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002339s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008185s ]
+SQL: SELECT `ID` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000626s ]
+SQL: UPDATE `member` SET `password`='1' WHERE ( `ID` = 8 ) [ RunTime:0.001064s ]
+
+[ 2017-05-23T18:12:29+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002424s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008228s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2017-05-23T18:26:35+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001982s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008667s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001559s ]
+
+[ 2017-05-23T18:27:45+08:00 ] 172.18.160.17 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002960s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.011307s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002084s ]
+
+[ 2017-05-23T18:43:19+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002028s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008487s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001503s ]
+
+[ 2017-05-23T18:43:25+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003129s ]
+
+[ 2017-05-23T18:43:25+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000385s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001464s ]
+
+[ 2017-05-23T18:46:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002064s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007710s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2017-05-23T18:47:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002158s ]
+
+[ 2017-05-23T18:47:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000903s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+
+[ 2017-05-23T18:47:33+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002131s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007217s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001736s ]
+
+[ 2017-05-23T18:47:35+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003094s ]
+
+[ 2017-05-23T18:47:35+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001214s ]
+
+[ 2017-05-23T18:47:43+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008704s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2017-05-23T18:50:13+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003400s ]
+
+[ 2017-05-23T18:50:13+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000384s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001665s ]
+
+[ 2017-05-23T18:50:21+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002482s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008204s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001520s ]
+
+[ 2017-05-23T18:50:28+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005986s ]
+
+[ 2017-05-23T18:50:29+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002833s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000446s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2017-05-23T18:50:36+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002877s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007911s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2017-05-23T18:50:58+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/tc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001965s ]
+
+[ 2017-05-23T18:50:58+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000982s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2017-05-23T18:51:04+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/User/logo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.008686s ]
+SQL: SELECT `password`,`ID`,`name` FROM `member` WHERE ( `cell` = '1' )  [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001615s ]
+

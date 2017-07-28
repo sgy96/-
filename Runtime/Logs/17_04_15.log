@@ -1,0 +1,99 @@
+[ 2017-04-15T14:35:40+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/platform.html
+ERR: 模板不存在:D:/wamp/www/ThinkPHP/yanJing/Admin/View/Index/platform.html
+
+[ 2017-04-15T14:36:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/top.html
+ERR: 非法操作:top
+
+[ 2017-04-15T14:36:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/main.html
+ERR: 非法操作:main
+
+[ 2017-04-15T14:36:37+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/left.html
+ERR: 非法操作:left
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/prototype.lite.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:50:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:57:15+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/prototype.lite.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:57:15+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:57:15+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:57:15+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:57:16+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/prototype.lite.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:58:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/prototype.lite.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T14:58:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:58:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Js/moo.fx.pack.js
+ERR: 非法操作:js
+
+[ 2017-04-15T14:59:00+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/Style/skin.css
+ERR: 非法操作:style
+
+[ 2017-04-15T15:02:18+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/%22/ThinkPHP/yanJing/index.php/Admin/Index/login
+ERR: 非法操作:"
+
+[ 2017-04-15T15:02:59+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/%22/ThinkPHP/yanJing/index.php/Admin/Index/login
+ERR: 非法操作:"
+
+[ 2017-04-15T15:07:06+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/%22/ThinkPHP/yanJing/index.php/Admin/Index/login
+ERR: 非法操作:"
+
+[ 2017-04-15T15:07:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Index/%22/ThinkPHP/yanJing/index.php/Admin/Index/login
+ERR: 非法操作:"
+
+[ 2017-04-15T17:22:31+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/mem_list.html
+ERR: 无法加载控制器:Member
+
+[ 2017-04-15T17:23:04+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/mem_list.html
+ERR: 无法加载控制器:Member
+
+[ 2017-04-15T21:20:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/User/denglu.html
+ERR: 无法加载控制器:User
+

@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>眼镜店</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <link rel="stylesheet" href="{$Think.const.CSS_URL}jquery.mobile-1.4.5.min.css">
+    <script type="text/javascript"  src="{$Think.const.JS_URL}jquery.min.js"></script>
+    <script type="text/javascript" src="{$Think.const.JS_URL}jquery.mobile-1.4.5.min.js"></script>
+    <link rel="stylesheet" href="{$Think.const.CSS_URL}iconfont.css">
+    <link  rel="stylesheet" href="{$Think.const.CSS_URL}style.css">
+    
+
+</head>
+
+<body>
+<div data-role="page" data-theme="f" class="padding5" >
+    <div data-role="header"  data-theme="f" >
+        <div class="ui-btn-left"> <a href="__MODULE__/User/logo" target="_top" class="ui-btn ui-corner-all ui-icon-carat-l ui-btn-icon-notext tu1">返回</a></div>
+        <h1>重置</h1>
+    </div>
+
+    <div data-role="main"  class="ui-content">
+        <form method="post" action="__MODULE__/User/reset">
+            <div class="ui-field-contain" >
+                <input type="text" data-theme="a" name='cell' data-iconpos="left" data-icon="user" placeholder="请输入手机号" >
+               <div class="ui-block-b text-algin2">密码重置后新密码为手机号，请及时更改密码</div>
+            </div>
+            <button class="button1">重置</button>
+        </form>
+        <div class="ui-grid-a">
+            
+            
+        </div>
+    </div>
+
+
+</div>
+        
+
+</body>
+<script type="text/javascript">
+    
+    $(".button1").click(function () {  
+       var cell = document.getElementsByName("cell")[0].value;
+       
+       $.ajax({  
+           type: "post",  
+           url: "__MODULE__/User/reset",  
+           data: {'cell':cell},  
+           dataType: "text",  
+           success: function (data) {  
+               //data = data.data; 
+               if(data == "1") {
+                   alert('手机号不能为空');
+                    
+                }else if(data=='2'){
+                    alert('手机号错误');
+                }else{
+                    alert('重置成功')
+                    location.href = "__MODULE__/User/logo";
+                    
+                }
+               
+           }  
+        });  
+       return false;   
+
+    });
+</script>
+</html>

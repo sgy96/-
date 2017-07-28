@@ -1,0 +1,32 @@
+[ 2017-05-04T19:43:51+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/grand
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054340s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.009143s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 22 ) LIMIT 1   [ RunTime:0.000494s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 25 ) LIMIT 1   [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001625s ]
+
+[ 2017-05-04T19:44:19+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/grand
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002380s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007738s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 23 ) LIMIT 1   [ RunTime:0.000532s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 30 ) LIMIT 1   [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2017-05-04T19:44:21+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/grand
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003400s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.007844s ]
+SQL: SELECT `name`,`cell`,`Time` FROM `member` WHERE ( `ID` = 33 ) LIMIT 1   [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001662s ]
+

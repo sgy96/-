@@ -1,0 +1,61 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+    <title>眼镜店管理中心</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="眼镜店管理管理系统" />
+    <link rel="stylesheet" type="text/css" href="<?php echo (CSS_URL); ?>skin.css" />
+</head>
+    <body>
+        <table width="100%">
+            <!-- 顶部部分 -->
+            <tr height="45"><td colspan="2" background="<?php echo (IMG_URL); ?>login_top_bg.gif">&nbsp;</td></tr>
+            <!-- 主体部分 -->
+            <tr style="background:url(<?php echo (IMG_URL); ?>login_bg.jpg) repeat-x;" height="530">
+                <!-- 主体左部分 -->
+                <td id="left_cont">
+                    <table width="100%" height="100%">
+                        <tr height="25%"><td colspan="2">&nbsp;</td></tr>
+                        <tr height="50%">
+                            <td width="40%" rowspan="2">&nbsp;</td>
+                            <td width="50%">
+                                <table width="100%">
+                                    <tr><td><img src="<?php echo (IMG_URL); ?>login_lg.jpg"></td></tr>
+                                </table>
+                            <td width="10%" rowspan="2">&nbsp;
+                        </tr>
+                        <tr><td colspan="2">&nbsp;</td></tr>
+                    </table>
+                </td>
+                <!-- 主体右部分 -->
+                <td id="right_cont">
+                    <table height="100%">
+                        <tr height="30%"><td colspan="3">&nbsp;</td></tr>
+                        <tr>
+                            <td width="30%" rowspan="5">&nbsp;</td>
+                            <td valign="top" id="form">
+                                <form action="/ThinkPHP/yanJing/index.php/Admin/Index/login"  method="post">
+                                    <table valign="top" width="350">
+                                        <tr><td colspan="4"><h4 style="letter-spacing:1px;font-size:16px;">眼镜店管理系统</h4></td></tr>
+                                        <tr><td>管理员：</td><td colspan="2"><input type="text" name="name" /></td>
+                                        <td width="100px"><?php  if(isset($error)){ if($error=='3'){ echo "<font color=red>账号不存在</font>"; } } ?></td></tr>
+                                        <tr><td>密&nbsp;&nbsp;&nbsp;&nbsp;码：</td><td colspan="2"><input type="password" name="password" /></td>
+                                        <td><?php  if(isset($error)){ if($error=='4'){ echo "<font color=red>密码错误</font>"; } } ?></td></tr>
+                                        <tr><td>验证码：</td><td><input type="text" name="yzm" style="width:80px;"/>
+                                        </td><td width="95px"><img title="点击刷新" src="<?php echo (IMG_URL); ?>yanZheng.class.php" align="absbottom" onclick="this.src='<?php echo (IMG_URL); ?>yanZheng.class.php?'+Math.random();"/></td>
+                                        <td><?php  if(isset($error)){ if($error=="1"){ echo "<font color=red>请输入验证码</font>"; } if($error=="2"){ echo "<font color=red>输入有误</font>"; } } ?></td></tr>
+                                        <tr class="bt" align="center"><td>&nbsp;<input type="submit" value="登陆" /></td><td>&nbsp;<input type="reset" value="重填" /></td></tr>
+                                    </table>
+                                </form>
+                            </td>
+                            <td rowspan="5">&nbsp;</td>
+                        </tr>
+                        <tr><td colspan="3">&nbsp;</td></tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- 底部部分 -->
+            <tr id="login_bot" ><td colspan="2"><p>Copyright © 2017-2018 RainMan 盛世工作室</p></td></tr>
+        </table>
+    </body>
+</html>

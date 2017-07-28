@@ -1,0 +1,17 @@
+[ 2016-11-02T12:13:58+08:00 ] ::1 /ThinkPHP/jqueryMobile/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018760s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000744s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.044885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003353s ]
+

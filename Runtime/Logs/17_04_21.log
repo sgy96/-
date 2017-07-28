@@ -1,0 +1,9 @@
+[ 2017-04-21T16:51:19+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/__MODULE__/mem_details?row=8&pageNow=2
+ERR: 非法操作:__module__
+
+[ 2017-04-21T16:57:50+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/Member?row=8&pageNow=2
+ERR: 非法操作:member
+
+[ 2017-04-21T16:58:48+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Admin/Member/Member/mem_details?row=8&pageNow=2
+ERR: 非法操作:member
+

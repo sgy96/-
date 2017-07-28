@@ -1,0 +1,82 @@
+[ 2017-05-30T20:38:45+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002931s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008180s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '眼镜架' ) LIMIT 0,5   [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
+[ 2017-05-30T20:38:49+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/jz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002960s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.011020s ]
+SQL: SELECT COUNT(ID) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.000559s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '眼镜架' ) LIMIT 5,5   [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001624s ]
+
+[ 2017-05-30T20:38:51+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001935s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008330s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜护理液' ) LIMIT 0,5   [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2017-05-30T20:38:53+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002249s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008367s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '隐形眼镜' ) LIMIT 0,5   [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2017-05-30T20:38:54+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007653s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜片 ' ) LIMIT 0,5   [ RunTime:0.000932s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2017-05-30T20:38:57+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/jz
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002126s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008833s ]
+SQL: SELECT COUNT(ID) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.000594s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '近视镜片 ' ) LIMIT 5,5   [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001532s ]
+
+[ 2017-05-30T20:39:01+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002225s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.007506s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '老花镜' ) LIMIT 0,5   [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2017-05-30T20:39:02+08:00 ] ::1 /ThinkPHP/yanJing/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.008133s ]
+SQL: SELECT `product`,`brand`,`Price`,`pe_img`,`describe` FROM `goods` WHERE ( `category` = '眼镜架' ) LIMIT 0,5   [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001490s ]
+

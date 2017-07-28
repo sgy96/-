@@ -1,0 +1,16 @@
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:1.8em;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wode:before { content: "\e609"; }
+
+.icon-shouye:before { content: "\e605"; }
+
+.icon-jiqileibie:before { content: "\e662"; }
+
+.icon-shouyeshouye:before { content: "\e601"; }
+
